@@ -1,0 +1,4 @@
+/amazonFineFoodReviews/
+*.csv
+*.txt
+*.sqlite
