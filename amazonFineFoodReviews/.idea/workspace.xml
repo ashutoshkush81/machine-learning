@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f81268a-981a-4ac4-8122-8136a50bc8e3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/amazonFineFoodReviews.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/amazonFineFoodReviews.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JupyterTrust" id="d21e8f8d-17f4-43d7-bbb1-d217cc14a4b7">
+    <option name="files">
+      <option value="amazonFineFoodReviews.ipynb" />
+    </option>
+  </component>
+  <component name="ProjectId" id="1ahPfczV8zPLjFQ43ELyYFohFxe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="full.screen.before.presentation.mode" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.django.DjangoModulesConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f81268a-981a-4ac4-8122-8136a50bc8e3" name="Default Changelist" comment="" />
+      <created>1587184956711</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587184956711</updated>
+      <workItem from="1587184966562" duration="5874000" />
+      <workItem from="1587200477104" duration="4657000" />
+      <workItem from="1587228256512" duration="3771000" />
+      <workItem from="1587269373883" duration="1346000" />
+      <workItem from="1587294506560" duration="40000" />
+    </task>
+    <task id="LOCAL-00001" summary="Checking if .gitignore working or not.">
+      <created>1587185419784</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587185419784</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Adding amazonFineFoodReviews ipython notebook.">
+      <created>1587185912989</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587185912989</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Bag of words .">
+      <created>1587231977004</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1587231977004</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Checking if .gitignore working or not." />
+    <MESSAGE value="Adding amazonFineFoodReviews ipython notebook." />
+    <MESSAGE value="Bag of words ." />
+    <option name="LAST_COMMIT_MESSAGE" value="Bag of words ." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="362" width="1910" height="326" key="#SQL_Dialects" timestamp="1587189878421">
+      <screen x="0" y="0" width="1920" height="1029" />
+    </state>
+    <state x="0" y="362" width="1910" height="326" key="#SQL_Dialects/0.0.1920.1029@0.0.1920.1029" timestamp="1587189878421" />
+    <state x="555" y="183" width="931" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587190470582">
+      <screen x="0" y="0" width="1920" height="1029" />
+    </state>
+    <state x="555" y="183" width="931" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1029@0.0.1920.1029" timestamp="1587190470582" />
+    <state x="389" y="4" width="1132" height="1025" key="CommitChangelistDialog2" timestamp="1587231967406">
+      <screen x="0" y="0" width="1920" height="1029" />
+    </state>
+    <state x="389" y="4" width="1132" height="1025" key="CommitChangelistDialog2/0.0.1920.1029@0.0.1920.1029" timestamp="1587231967406" />
+    <state x="555" y="246" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1587232004181">
+      <screen x="0" y="0" width="1920" height="1029" />
+    </state>
+    <state x="555" y="246" width="800" height="543" key="Vcs.Push.Dialog.v2/0.0.1920.1029@0.0.1920.1029" timestamp="1587232004181" />
+    <state x="561" y="226" width="795" height="678" key="search.everywhere.popup" timestamp="1587185824876">
+      <screen x="0" y="0" width="1920" height="1029" />
+    </state>
+    <state x="561" y="226" width="795" height="678" key="search.everywhere.popup/0.0.1920.1029@0.0.1920.1029" timestamp="1587185824876" />
+  </component>
+</project>
