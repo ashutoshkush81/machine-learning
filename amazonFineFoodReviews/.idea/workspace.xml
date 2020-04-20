@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9f81268a-981a-4ac4-8122-8136a50bc8e3" name="Default Changelist" comment="" />
+    <list default="true" id="9f81268a-981a-4ac4-8122-8136a50bc8e3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/amazonFineFoodReviews.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/amazonFineFoodReviews.ipynb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -54,7 +56,6 @@
       <workItem from="1587228256512" duration="3771000" />
       <workItem from="1587269373883" duration="1346000" />
       <workItem from="1587294506560" duration="40000" />
-      <workItem from="1587294575575" duration="772000" />
     </task>
     <task id="LOCAL-00001" summary="Checking if .gitignore working or not.">
       <created>1587185419784</created>
