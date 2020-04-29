@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f81268a-981a-4ac4-8122-8136a50bc8e3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Amazon Fine Food Reviews Analysis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/amazonFineFoodReviews.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/amazonFineFoodReviews.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,6 +58,7 @@
       <workItem from="1587228256512" duration="3771000" />
       <workItem from="1587269373883" duration="1346000" />
       <workItem from="1587294506560" duration="40000" />
+      <workItem from="1588154967500" duration="2711000" />
     </task>
     <task id="LOCAL-00001" summary="Checking if .gitignore working or not.">
       <created>1587185419784</created>
