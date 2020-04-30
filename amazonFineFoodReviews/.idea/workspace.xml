@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9f81268a-981a-4ac4-8122-8136a50bc8e3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Amazon Fine Food Reviews Analysis.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KNN/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/amazonFineFoodReviews.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/amazonFineFoodReviews.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +57,8 @@
       <workItem from="1587228256512" duration="3771000" />
       <workItem from="1587269373883" duration="1346000" />
       <workItem from="1587294506560" duration="40000" />
-      <workItem from="1588154967500" duration="2711000" />
+      <workItem from="1588154967500" duration="3357000" />
+      <workItem from="1588229387754" duration="110000" />
     </task>
     <task id="LOCAL-00001" summary="Checking if .gitignore working or not.">
       <created>1587185419784</created>
@@ -81,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1587231977004</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="text to vector conversion.">
+      <created>1588179199880</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1588179199880</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -92,7 +99,8 @@
     <MESSAGE value="Checking if .gitignore working or not." />
     <MESSAGE value="Adding amazonFineFoodReviews ipython notebook." />
     <MESSAGE value="Bag of words ." />
-    <option name="LAST_COMMIT_MESSAGE" value="Bag of words ." />
+    <MESSAGE value="text to vector conversion." />
+    <option name="LAST_COMMIT_MESSAGE" value="text to vector conversion." />
   </component>
   <component name="WindowStateProjectService">
     <state x="0" y="362" width="1910" height="326" key="#SQL_Dialects" timestamp="1587189878421">
@@ -103,14 +111,14 @@
       <screen x="0" y="0" width="1920" height="1029" />
     </state>
     <state x="555" y="183" width="931" height="684" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1029@0.0.1920.1029" timestamp="1587190470582" />
-    <state x="389" y="4" width="1132" height="1025" key="CommitChangelistDialog2" timestamp="1587231967406">
+    <state x="389" y="4" width="1132" height="1025" key="CommitChangelistDialog2" timestamp="1588179198504">
       <screen x="0" y="0" width="1920" height="1029" />
     </state>
-    <state x="389" y="4" width="1132" height="1025" key="CommitChangelistDialog2/0.0.1920.1029@0.0.1920.1029" timestamp="1587231967406" />
-    <state x="555" y="246" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1587232004181">
+    <state x="389" y="4" width="1132" height="1025" key="CommitChangelistDialog2/0.0.1920.1029@0.0.1920.1029" timestamp="1588179198504" />
+    <state x="555" y="246" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1588179219481">
       <screen x="0" y="0" width="1920" height="1029" />
     </state>
-    <state x="555" y="246" width="800" height="543" key="Vcs.Push.Dialog.v2/0.0.1920.1029@0.0.1920.1029" timestamp="1587232004181" />
+    <state x="555" y="246" width="800" height="543" key="Vcs.Push.Dialog.v2/0.0.1920.1029@0.0.1920.1029" timestamp="1588179219481" />
     <state x="561" y="226" width="795" height="678" key="search.everywhere.popup" timestamp="1587185824876">
       <screen x="0" y="0" width="1920" height="1029" />
     </state>
